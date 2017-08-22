@@ -1,0 +1,7 @@
+package eu.europa.ec.taxud.test.ui.test_suites./SUITE/;
+
+public class /CLASS/ extends BaseTestCase {
+
+    @SpiraTestCase(testCaseId = Spira./CLASS/)
+    public void /FUNCTION/(){}
+}
